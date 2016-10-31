@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase_Massage</string>
+    <string name="msg_subscribed">news_subscribed</string>
+</resources>
